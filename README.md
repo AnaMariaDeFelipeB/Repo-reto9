@@ -16,5 +16,7 @@ Perfil linkedin: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%
 
 Eso fue todo por el momento, muchas gracias. 
 
-![image](https://github.com/AnaMariaDeFelipeB/Repo-reto9/assets/124607045/38a771b9-3fe2-41f4-b48d-71911add8a09)
+<p align="center">
+  <img src="https://github.com/AnaMariaDeFelipeB/Repo-reto9/assets/124607045/bb340736-9194-4c95-8971-e54b760360b0" alt="Sublime's custom image"/>
+</p>
 
