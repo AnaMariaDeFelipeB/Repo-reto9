@@ -10,7 +10,7 @@ En este repositorio por problemas técnicos simplemente adjuntare la solución d
 --- 
 6. Cosas de adultos....ir a linkedin y crear perfil....
 
-Perfil linkedin: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Baw3R7ugcRtu0Na%2F2fsgakw%3D%3D 
+Perfil linkedin: https://www.linkedin.com/in/ana-maria-de-felipe-bri%C3%B1ez-23a641276/
 
 ---
 
